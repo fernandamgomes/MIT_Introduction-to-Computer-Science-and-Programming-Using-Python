@@ -25,3 +25,7 @@ The rules of the game are as follows:
 
 ## Part B: Computer Choosing a Word and Playing
 After completing the word game code, you decide that you would like to enable your computer (SkyNet) to play the game. In this part, you will be able to compare how you as a user succeed in the game compared to the computer's performance.
+
+---
+
+### OBS: to run the program you will need the "words.txt" file
