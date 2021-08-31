@@ -2,7 +2,8 @@
 # HELPER CODE
 import random
 
-WORDLIST_FILENAME = "c:/Users/Fernanda-SSD/Desktop/Bill Gates/mit/w3/hangman/words.txt"
+# If you see an IOError, you should change the value of the WORDLIST_FILENAME constant to the complete path name for the file words.txt.
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
