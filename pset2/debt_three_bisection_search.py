@@ -1,3 +1,11 @@
+'''
+Write a program that uses bisection search to find the smallest monthly payment to the cent (no more multiples of $10) such that we can pay off the debt within a year.
+
+The following variables contain values as described below:
+    - balance - the outstanding balance on the credit card
+    - annualInterestRate - annual interest rate as a decimal
+'''
+
 monthly_interest_rate = annualInterestRate / 12
 unpaid_balance = balance
 lower_bound = balance/12
